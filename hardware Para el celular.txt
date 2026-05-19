@@ -1,0 +1,3 @@
+1. https://www.mercadolibre.com.ar/raspberry-pi-4-b-4gb-ram-kit-element-completo-128gb-fan-stw/up/MLAU3037191114?pdp_filters=item_id%3AMLA2020362880&matt_tool=89488245#origin=share&sid=share&wid=MLA2020362880&action=copy
+2. https://www.mercadolibre.com.ar/modulo-waveshare-hat-4g-gsm-gnss-para-raspberry-pi/p/MLA65844010?pdp_filters=item_id%3AMLA2904026324&matt_tool=89488245#origin=share&sid=share&wid=MLA2904026324&action=copy
+3. https://www.mercadolibre.com.ar/pantalla-tactil-raspberry-pi-lcd-touch-5-800-x-480-hdmi/p/MLA2071447608?pdp_filters=item_id%3AMLA922907662&matt_tool=89488245#origin=share&sid=share&wid=MLA922907662&action=copy
