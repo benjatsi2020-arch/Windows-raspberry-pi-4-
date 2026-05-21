@@ -1,0 +1,14 @@
+#!/bin/bash
+# NÚCLEO DE NUESTRO SISTEMA OPERATIVO MÓVIL
+echo "Iniciando Celular OS..."
+
+# 1. Bloquear las funciones de computadora para que parezca un celular
+gsettings set org.gnome.desktop.interface panels-not-visible true
+
+# 2. Abrir WhatsApp y Google Chat en modo pantalla completa táctil (Kiosko)
+chromium-browser --kiosk --app=https://whatsapp.com --app=https://google.com &
+
+# 3. Mantener el sistema operativo corriendo
+while true; do
+    sleep 1
+done
